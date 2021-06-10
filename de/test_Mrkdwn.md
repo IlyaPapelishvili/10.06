@@ -42,6 +42,8 @@ AMPHTML-Anzeigen sind ein Mechanismus zum Rendern schneller, leistungsstarker An
 
 ## Regeln für AMPHTML-Anzeigenformate<a name="amphtml-ad-format-rules"></a>
 
+000111 AMPHTML-Anzeigen sind ein Mechanismus zum Rendern schneller, leistungsstarker Anzeigen auf AMP-Seiten. Damit AMPHTML-Anzeigendokumente ("AMP-Creatives") schnell und reibungslos im Browser gerendert werden können und die Nutzererfahrung nicht beeinträchtigen, müssen AMP-Creatives eine Reihe von Validierungsregeln einhalten. Ähnlich wie bei den[AMP-Formatregeln](https://amp.dev/documentation/guides-and-tutorials/learn/spec/amphtml) haben AMPHTML-Anzeigen Zugriff auf eine begrenzte Anzahl zulässiger Tags, Funktionen und Erweiterungen.
+
 Sofern unten nicht anders angegeben, muss das Creative allen Regeln der [AMP-Formatregeln entsprechen](https://amp.dev/documentation/guides-and-tutorials/learn/spec/amphtml.html) , die hier durch Verweis aufgenommen werden. Beispielsweise weicht die AMPHTML-Anzeigen- [Boilerplate](#boilerplate) von der AMP-Standard-Boilerplate ab.
 
 Darüber hinaus müssen Creatives die folgenden Regeln einhalten:
