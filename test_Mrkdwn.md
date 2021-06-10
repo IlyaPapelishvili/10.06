@@ -36,7 +36,6 @@ limitations under the License.
 -->
 
 
-
 _If you'd like to propose changes to the standard, please comment on the [Intent
 to Implement](https://github.com/ampproject/amphtml/issues/4264)_.
 
